@@ -6,7 +6,7 @@ before_script:
   - mkdir ../build
   - cd ../build
 script:
-  - cmake ../lab5
+  - cmake ../381903-3_Strashenko_lab5
   - make -j
   - ./test/MP5_TESTS
 notifications:
