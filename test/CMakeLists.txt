@@ -1,4 +1,4 @@
-set(target ${MP5_TESTS})
+set(target MP5_TESTS)
 
 file(GLOB hdrs "*.h*")
 file(GLOB srcs "*.cpp")
